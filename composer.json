@@ -1,0 +1,20 @@
+{
+    "name": "mannion007/interfaces",
+    "description": "A handful of useful interfaces",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Mannion",
+            "email": "mannion007@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mannion007\\Interfaces\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
