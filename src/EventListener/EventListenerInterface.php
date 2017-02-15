@@ -1,6 +1,6 @@
 <?php
 
-namespace Mannion007\Interfaces\EventHandler;
+namespace Mannion007\Interfaces\EventListener;
 
 use Mannion007\Interfaces\Event\EventInterface;
 
